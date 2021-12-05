@@ -1,3 +1,3 @@
-# ladingpage
-https://raquelinevr.github.io/ladingpage/
+# landingpage
+https://raquelinevr.github.io/landingpage/
  
